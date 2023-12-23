@@ -1,0 +1,85 @@
+{
+    "games": [
+        {
+            "gameRecord": [
+                [
+                    {
+                        "square": {
+                            "piece": "P"
+                        },
+                        "pos": {
+                            "rank": 1,
+                            "file": 4
+                        },
+                        "type": "delete"
+                    },
+                    {
+                        "square": {
+                            "piece": "P"
+                        },
+                        "pos": {
+                            "rank": 3,
+                            "file": 4
+                        },
+                        "type": "insert"
+                    }
+                ],
+                [
+                    {
+                        "square": {
+                            "piece": "p"
+                        },
+                        "pos": {
+                            "rank": 6,
+                            "file": 3
+                        },
+                        "type": "delete"
+                    },
+                    {
+                        "square": {
+                            "piece": "p"
+                        },
+                        "pos": {
+                            "rank": 4,
+                            "file": 3
+                        },
+                        "type": "insert"
+                    }
+                ],
+                [
+                    {
+                        "square": {
+                            "piece": "p"
+                        },
+                        "pos": {
+                            "rank": 4,
+                            "file": 3
+                        },
+                        "type": "delete"
+                    },
+                    {
+                        "square": {
+                            "piece": "P"
+                        },
+                        "pos": {
+                            "rank": 3,
+                            "file": 4
+                        },
+                        "type": "delete"
+                    },
+                    {
+                        "square": {
+                            "piece": "P"
+                        },
+                        "pos": {
+                            "rank": 4,
+                            "file": 3
+                        },
+                        "type": "insert"
+                    }
+                ]
+            ],
+            "name": "Game 1"
+        }
+    ]
+}

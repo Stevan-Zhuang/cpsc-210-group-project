@@ -1,0 +1,21 @@
+{"games": [{
+    "gameRecord": [[
+        {
+            "square": {"piece": "P"},
+            "pos": {
+                "file": 3,
+                "rank": 1
+            },
+            "type": "delete"
+        },
+        {
+            "square": {"piece": "P"},
+            "pos": {
+                "file": 3,
+                "rank": 3
+            },
+            "type": "insert"
+        }
+    ]],
+    "name": "Untitled-1"
+}]}

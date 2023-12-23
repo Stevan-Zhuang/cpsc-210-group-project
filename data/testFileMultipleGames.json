@@ -1,0 +1,84 @@
+{
+    "games": [
+        {
+            "gameRecord": [
+                [
+                    {
+                        "square": {
+                            "piece": "N"
+                        },
+                        "pos": {
+                            "rank": 0,
+                            "file": 6
+                        },
+                        "type": "delete"
+                    },
+                    {
+                        "square": {
+                            "piece": "N"
+                        },
+                        "pos": {
+                            "rank": 2,
+                            "file": 5
+                        },
+                        "type": "insert"
+                    }
+                ],
+                [
+                    {
+                        "square": {
+                            "piece": "n"
+                        },
+                        "pos": {
+                            "rank": 7,
+                            "file": 1
+                        },
+                        "type": "delete"
+                    },
+                    {
+                        "square": {
+                            "piece": "n"
+                        },
+                        "pos": {
+                            "rank": 5,
+                            "file": 2
+                        },
+                        "type": "insert"
+                    }
+                ]
+            ],
+            "name": "My chess game"
+        },
+        {
+            "gameRecord": [
+                [
+                    {
+                        "square": {
+                            "piece": "P"
+                        },
+                        "pos": {
+                            "rank": 1,
+                            "file": 0
+                        },
+                        "type": "delete"
+                    },
+                    {
+                        "square": {
+                            "piece": "P"
+                        },
+                        "pos": {
+                            "rank": 3,
+                            "file": 0
+                        },
+                        "type": "insert"
+                    }
+                ]
+            ],
+            "name": "Game 2"
+        },
+        {
+            "gameRecord": [],
+            "name": "Untitled-3"
+        }
+    ]
+}

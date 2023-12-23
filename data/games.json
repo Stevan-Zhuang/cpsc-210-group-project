@@ -1,0 +1,272 @@
+{"games": [
+    {
+        "gameRecord": [
+            [
+                {
+                    "square": {"piece": "P"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 1
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "P"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 3
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "p"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 6
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "p"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 4
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "Q"},
+                    "pos": {
+                        "file": 3,
+                        "rank": 0
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "Q"},
+                    "pos": {
+                        "file": 7,
+                        "rank": 4
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 1,
+                        "rank": 7
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 2,
+                        "rank": 5
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "B"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 0
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "B"},
+                    "pos": {
+                        "file": 2,
+                        "rank": 3
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 6,
+                        "rank": 7
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 5
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "p"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 6
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "Q"},
+                    "pos": {
+                        "file": 7,
+                        "rank": 4
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "Q"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 6
+                    },
+                    "type": "insert"
+                }
+            ]
+        ],
+        "name": "Scholar's Mate"
+    },
+    {
+        "gameRecord": [
+            [
+                {
+                    "square": {"piece": "P"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 1
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "P"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 3
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "p"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 6
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "p"},
+                    "pos": {
+                        "file": 4,
+                        "rank": 4
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "N"},
+                    "pos": {
+                        "file": 6,
+                        "rank": 0
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "N"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 2
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 1,
+                        "rank": 7
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 2,
+                        "rank": 5
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "B"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 0
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "B"},
+                    "pos": {
+                        "file": 2,
+                        "rank": 3
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 6,
+                        "rank": 7
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "n"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 5
+                    },
+                    "type": "insert"
+                }
+            ],
+            [
+                {
+                    "square": {"piece": "N"},
+                    "pos": {
+                        "file": 5,
+                        "rank": 2
+                    },
+                    "type": "delete"
+                },
+                {
+                    "square": {"piece": "N"},
+                    "pos": {
+                        "file": 6,
+                        "rank": 4
+                    },
+                    "type": "insert"
+                }
+            ]
+        ],
+        "name": "Fried Liver"
+    }
+]}
